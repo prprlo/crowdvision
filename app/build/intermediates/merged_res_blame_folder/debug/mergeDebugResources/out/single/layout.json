@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.compvision.crowdvision.app-mergeDebugResources-41:/layout/activity_create_session.xml",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_create_session.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-mergeDebugResources-41:/layout/item_home_session.xml",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/item_home_session.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-mergeDebugResources-41:/layout/activity_home.xml",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-mergeDebugResources-41:/layout/activity_session_details.xml",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_session_details.xml"
+    }
+]

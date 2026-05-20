@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_chart_card.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_chart_card.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_camera_bottom_panel.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_camera_bottom_panel.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-hdpi_ic_var2.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-hdpi/ic_var2.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxxhdpi_ic_var2.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxxhdpi/ic_var2.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/layout_item_home_session.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/item_home_session.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_input_field.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_outline_button.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_outline_button.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_card.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_summary_card.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_summary_card.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xhdpi_ic_var2.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xhdpi/ic_var2.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_primary_button.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_primary_button.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-anydpi-v26_ic_var2_round.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-anydpi-v26/ic_var2_round.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-hdpi_ic_var2_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-hdpi/ic_var2_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_camera_button.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_camera_button.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_camera_top_panel.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_camera_top_panel.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxhdpi_ic_var2_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxhdpi/ic_var2_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xhdpi_ic_var2_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xhdpi/ic_var2_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xhdpi_ic_var2_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xhdpi/ic_var2_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxhdpi_ic_var2_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxhdpi/ic_var2_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-mdpi_ic_var2_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-mdpi/ic_var2_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-mdpi_ic_var2_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-mdpi/ic_var2_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-anydpi-v26_ic_var2.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-anydpi-v26/ic_var2.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/layout_activity_session_details.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_session_details.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-mdpi_ic_var2.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-mdpi/ic_var2.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxxhdpi_ic_var2_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxxhdpi/ic_var2_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/layout_activity_create_session.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_create_session.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_ic_check_circle_24.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/ic_check_circle_24.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_bg_empty_state.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/bg_empty_state.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/layout_activity_home.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxxhdpi_ic_var2_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxxhdpi/ic_var2_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-xxhdpi_ic_var2.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-xxhdpi/ic_var2.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-hdpi_ic_var2_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-hdpi/ic_var2_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_ic_var2_background.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/ic_var2_background.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_ic_folder_24.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/ic_folder_24.xml"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.compvision.crowdvision.app-debug-42:/drawable_ic_delete_24.xml.flat",
+        "source": "com.compvision.crowdvision.app-main-44:/drawable/ic_delete_24.xml"
+    }
+]

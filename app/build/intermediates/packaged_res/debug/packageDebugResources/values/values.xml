@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_light">#EAF2FF</color>
+    <color name="accent_primary">#2F80FF</color>
+    <color name="accent_primary_dark">#236FE6</color>
+    <color name="accent_soft">#EAF2FF</color>
+    <color name="app_background">#F7F9FC</color>
+    <color name="border_light">#E6EBF3</color>
+    <color name="border_soft">#E4EAF2</color>
+    <color name="button_ripple">#66A7FF</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="card_stroke">#E6EBF3</color>
+    <color name="danger">#EF4444</color>
+    <color name="danger_soft">#FFF1F2</color>
+    <color name="divider_light">#EEF2F7</color>
+    <color name="overlay_panel">#F2FFFFFF</color>
+    <color name="text_muted">#9AA3B2</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#5F6673</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CrowdVision</string>
+    <string name="avg_people">Среднее число людей: %1$.1f</string>
+    <string name="back">Назад</string>
+    <string name="camera">Камера</string>
+    <string name="create_session">Создать сессию</string>
+    <string name="created_at">Создана:</string>
+    <string name="current_in_frame">Сейчас в кадре: %1$d</string>
+    <string name="details">Детали</string>
+    <string name="duration_text">Длительность: %1$s</string>
+    <string name="empty_graph">Недостаточно данных для построения графика.</string>
+    <string name="empty_measurements">Замеры для этой сессии пока отсутствуют.</string>
+    <string name="graph_title">Изменение числа людей в кадре</string>
+    <string name="location_prefix">Место:</string>
+    <string name="max_people">Максимум людей: %1$d</string>
+    <string name="measurements_count">Количество замеров: %1$d</string>
+    <string name="new_session_subtitle">Укажите основные данные сессии перед началом наблюдения.</string>
+    <string name="new_session_title">Новая сессия</string>
+    <string name="no_sessions">Сессий пока нет. Создайте новую сессию, чтобы начать наблюдение.</string>
+    <string name="note_prefix">Заметка:</string>
+    <string name="open_camera">Открыть камеру</string>
+    <string name="permission_denied">Разрешение на использование камеры отклонено</string>
+    <string name="reset">Сбросить</string>
+    <string name="session_details_title">Детали сессии</string>
+    <string name="session_location">Место</string>
+    <string name="session_location_hint">Например: Аудитория 305</string>
+    <string name="session_name">Название</string>
+    <string name="session_name_hint">Например: Лекция по ИИ</string>
+    <string name="session_note">Заметка</string>
+    <string name="session_note_hint">Краткий комментарий</string>
+    <string name="sessions_subtitle">Создайте новую сессию или выберите существующую для просмотра данных и запуска камеры.</string>
+    <string name="sessions_title">Сессии наблюдения</string>
+    <string name="start_observation">Начать наблюдение</string>
+    <string name="stop_observation">Остановить наблюдение</string>
+    <string name="summary">Сводка</string>
+    <string name="to_sessions">К сессиям</string>
+    <string name="unique_in_session">Уникальных за сессию: %1$d</string>
+    <style name="Theme.CompVisionApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/app_background</item>
+        <item name="android:navigationBarColor">@color/app_background</item>
+
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorPrimaryVariant">@color/accent_primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <item name="colorSecondary">@color/accent_primary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

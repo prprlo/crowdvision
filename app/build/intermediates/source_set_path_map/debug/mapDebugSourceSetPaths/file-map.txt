@@ -1,0 +1,46 @@
+com.compvision.crowdvision.app-lifecycle-runtime-2.6.2-0 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\02815df3d5093551a4bbec6adfb32b8c\transformed\lifecycle-runtime-2.6.2\res
+com.compvision.crowdvision.app-lifecycle-livedata-2.6.2-1 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\031abbfd7f113cf80c7f49a389560c2c\transformed\lifecycle-livedata-2.6.2\res
+com.compvision.crowdvision.app-jetified-core-ktx-1.12.0-2 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\0818ce684169dc86414204cec36047e1\transformed\jetified-core-ktx-1.12.0\res
+com.compvision.crowdvision.app-jetified-camera-video-1.3.0-3 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\08ba33f22c6298db9e83dc55899fe48c\transformed\jetified-camera-video-1.3.0\res
+com.compvision.crowdvision.app-constraintlayout-2.1.4-4 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\0c3f6799d1e9de3f162fbdd388f72d7b\transformed\constraintlayout-2.1.4\res
+com.compvision.crowdvision.app-appcompat-1.6.1-5 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\0ce03f727a43ffe70847d3697636b564\transformed\appcompat-1.6.1\res
+com.compvision.crowdvision.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\0e6b65794e4dd41a9bd8dc2edae42872\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.compvision.crowdvision.app-core-1.12.0-7 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\10ef84ce3093a7288a9315bbb4f1f60a\transformed\core-1.12.0\res
+com.compvision.crowdvision.app-jetified-viewpager2-1.1.0-beta02-8 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\1604360b1f27b2d4a1a72da00aa00081\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.compvision.crowdvision.app-room-runtime-2.6.1-9 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\2afce726a1a6f1b3681f15b07fc30d60\transformed\room-runtime-2.6.1\res
+com.compvision.crowdvision.app-jetified-camera-lifecycle-1.3.0-10 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\311263db02faa078a8416b1ba22f3b70\transformed\jetified-camera-lifecycle-1.3.0\res
+com.compvision.crowdvision.app-sqlite-2.4.0-11 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\359ff79bf95f3f87327f2737ac579184\transformed\sqlite-2.4.0\res
+com.compvision.crowdvision.app-jetified-lifecycle-process-2.6.2-12 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\4788b2b20c9c2f51937972957a9e6263\transformed\jetified-lifecycle-process-2.6.2\res
+com.compvision.crowdvision.app-jetified-room-ktx-2.6.1-13 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\4eff3ec84279dc15a2a98bfb3c1c3899\transformed\jetified-room-ktx-2.6.1\res
+com.compvision.crowdvision.app-coordinatorlayout-1.1.0-14 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\5b7bdca4233e42bdefcb4e21fae534c1\transformed\coordinatorlayout-1.1.0\res
+com.compvision.crowdvision.app-jetified-appcompat-resources-1.6.1-15 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\5ef6b98e47180bc634a5d6c7211e3fd7\transformed\jetified-appcompat-resources-1.6.1\res
+com.compvision.crowdvision.app-jetified-savedstate-1.2.1-16 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\6245c37f82604c0c72c166ace296659d\transformed\jetified-savedstate-1.2.1\res
+com.compvision.crowdvision.app-jetified-camera-camera2-1.3.0-17 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\68fc3a8ff4723e5b5a3625fa1a8899eb\transformed\jetified-camera-camera2-1.3.0\res
+com.compvision.crowdvision.app-jetified-startup-runtime-1.1.1-18 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\72c26e14e17723713cfd9ab1d0479692\transformed\jetified-startup-runtime-1.1.1\res
+com.compvision.crowdvision.app-lifecycle-viewmodel-2.6.2-19 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\75c1050810142015f64fb70db829aa53\transformed\lifecycle-viewmodel-2.6.2\res
+com.compvision.crowdvision.app-jetified-annotation-experimental-1.3.1-20 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\794d7b9ecc64975bb5da94512301cecf\transformed\jetified-annotation-experimental-1.3.1\res
+com.compvision.crowdvision.app-jetified-emoji2-1.2.0-21 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\867014f8c6639a9a68196f0506fd17b8\transformed\jetified-emoji2-1.2.0\res
+com.compvision.crowdvision.app-jetified-lifecycle-runtime-ktx-2.6.2-22 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\95fdc085253480df20e1552d1a6832aa\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.compvision.crowdvision.app-jetified-customview-poolingcontainer-1.0.0-23 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\997dfcd9329a19d744915a5cbafa2e75\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.compvision.crowdvision.app-jetified-activity-1.8.0-24 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\a87e10d0dd6415294fafff568f378df9\transformed\jetified-activity-1.8.0\res
+com.compvision.crowdvision.app-fragment-1.3.6-25 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\aaf2546b24da79b54c10660d4f5e08ee\transformed\fragment-1.3.6\res
+com.compvision.crowdvision.app-core-runtime-2.2.0-26 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\aecce8e08cdb38222e1dfdc7c94d3ad5\transformed\core-runtime-2.2.0\res
+com.compvision.crowdvision.app-sqlite-framework-2.4.0-27 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\b28d52fda4b098cbb3f61311220a5c61\transformed\sqlite-framework-2.4.0\res
+com.compvision.crowdvision.app-jetified-camera-view-1.3.0-28 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\b4b8653430f026f9e858f0c6d58a534a\transformed\jetified-camera-view-1.3.0\res
+com.compvision.crowdvision.app-recyclerview-1.3.2-29 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\baf2b5289f1ad60657724f578521cd33\transformed\recyclerview-1.3.2\res
+com.compvision.crowdvision.app-jetified-camera-core-1.3.0-30 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\bd837693d6cb9cf2cd7123e4bdf6d17f\transformed\jetified-camera-core-1.3.0\res
+com.compvision.crowdvision.app-drawerlayout-1.1.1-31 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\c8255b3c01d6fb478a7f374b0161e553\transformed\drawerlayout-1.1.1\res
+com.compvision.crowdvision.app-jetified-emoji2-views-helper-1.2.0-32 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\ce9d76c849e92df003659f11a25a44ff\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.compvision.crowdvision.app-transition-1.2.0-33 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\cf93dfea0aea64dba866fe8384c648b3\transformed\transition-1.2.0\res
+com.compvision.crowdvision.app-cardview-1.0.0-34 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\def40d396b40eb51c92eb88d14533480\transformed\cardview-1.0.0\res
+com.compvision.crowdvision.app-jetified-profileinstaller-1.3.0-35 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\eb6adb76d1889578e233c9296d5293f1\transformed\jetified-profileinstaller-1.3.0\res
+com.compvision.crowdvision.app-material-1.10.0-36 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\ee12211bbc32280f39dc1eb3effa278b\transformed\material-1.10.0\res
+com.compvision.crowdvision.app-lifecycle-livedata-core-2.6.2-37 C:\Users\PC\.gradle\caches\9.0-milestone-1\transforms\fb8302890f176a1bba6a2129ae7eee86\transformed\lifecycle-livedata-core-2.6.2\res
+com.compvision.crowdvision.app-pngs-38 D:\MARIA\univer LETI\vkr\CrowdVision\app\build\generated\res\pngs\debug
+com.compvision.crowdvision.app-resValues-39 D:\MARIA\univer LETI\vkr\CrowdVision\app\build\generated\res\resValues\debug
+com.compvision.crowdvision.app-updated_navigation_xml-40 D:\MARIA\univer LETI\vkr\CrowdVision\app\build\generated\updated_navigation_xml\debug
+com.compvision.crowdvision.app-packageDebugResources-41 D:\MARIA\univer LETI\vkr\CrowdVision\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.compvision.crowdvision.app-packageDebugResources-42 D:\MARIA\univer LETI\vkr\CrowdVision\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.compvision.crowdvision.app-debug-43 D:\MARIA\univer LETI\vkr\CrowdVision\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.compvision.crowdvision.app-debug-44 D:\MARIA\univer LETI\vkr\CrowdVision\app\src\debug\res
+com.compvision.crowdvision.app-main-45 D:\MARIA\univer LETI\vkr\CrowdVision\app\src\main\res

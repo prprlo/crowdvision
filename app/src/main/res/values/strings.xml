@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CrowdVision</string>
+
+    <string name="sessions_title">Сессии наблюдения</string>
+    <string name="sessions_subtitle">Создайте новую сессию или выберите существующую для просмотра данных и запуска камеры.</string>
+    <string name="create_session">Создать сессию</string>
+    <string name="no_sessions">Сессий пока нет. Создайте новую сессию, чтобы начать наблюдение.</string>
+
+    <string name="new_session_title">Новая сессия</string>
+    <string name="new_session_subtitle">Укажите основные данные сессии перед началом наблюдения.</string>
+    <string name="session_name">Название</string>
+    <string name="session_location">Место</string>
+    <string name="session_note">Заметка</string>
+    <string name="session_name_hint">Например: Лекция по ИИ</string>
+    <string name="session_location_hint">Например: Аудитория 305</string>
+    <string name="session_note_hint">Краткий комментарий</string>
+
+    <string name="back">Назад</string>
+    <string name="camera">Камера</string>
+    <string name="details">Детали</string>
+    <string name="open_camera">Открыть камеру</string>
+    <string name="to_sessions">К сессиям</string>
+    <string name="reset">Сбросить</string>
+    <string name="start_observation">Начать наблюдение</string>
+    <string name="stop_observation">Остановить наблюдение</string>
+
+    <string name="session_details_title">Детали сессии</string>
+    <string name="summary">Сводка</string>
+    <string name="created_at">Создана:</string>
+    <string name="location_prefix">Место:</string>
+    <string name="note_prefix">Заметка:</string>
+    <string name="graph_title">Изменение числа людей в кадре</string>
+
+    <string name="current_in_frame">Сейчас в кадре: %1$d</string>
+    <string name="unique_in_session">Уникальных за сессию: %1$d</string>
+
+    <string name="max_people">Максимум людей: %1$d</string>
+    <string name="avg_people">Среднее число людей: %1$.1f</string>
+    <string name="measurements_count">Количество замеров: %1$d</string>
+    <string name="duration_text">Длительность: %1$s</string>
+
+    <string name="empty_measurements">Замеры для этой сессии пока отсутствуют.</string>
+    <string name="empty_graph">Недостаточно данных для построения графика.</string>
+
+    <string name="permission_denied">Разрешение на использование камеры отклонено</string>
+</resources>
